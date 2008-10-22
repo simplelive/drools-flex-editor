@@ -1,0 +1,8 @@
+#summary Road map for the project
+
+   # Add a tree pattern match for syntax highlighting and code completion (http://www.nedit.org/)
+   # Intentional programming - create rules automatically based on user intent
+   # Create visual representations of code blocks, and allow code blocks to be "snapped" together. 
+   # Smart indentation
+   # Consider ways of creating simpler methods to target none-developers
+   # Consider complexity in the development of rules
