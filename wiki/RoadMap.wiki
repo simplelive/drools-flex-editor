@@ -1,12 +1,10 @@
 #summary Road map for the project
 
-== Basic == 
+== Road Map (in no particular order) == 
    # Context Help 
    # Class search 
    # Tab support 
    # Scenario testing 
-
-== Interesting ==
    # Add a tree pattern match for syntax highlighting and code completion (http://www.nedit.org/)
    # Intentional programming - create rules automatically based on user intent
    # Create visual representations of code blocks, and allow code blocks to be "snapped" together. 
