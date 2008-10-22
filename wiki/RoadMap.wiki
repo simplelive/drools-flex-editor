@@ -12,6 +12,7 @@
    # Smart indentation
    # Consider ways of creating simpler methods to target none-developers
    # Consider complexity in the development of rules
+   # AOP for debugging + explanation of rule result
 
 
 == Links of influence==
