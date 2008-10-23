@@ -6,10 +6,13 @@
    # Class search 
    # Tab support 
    # Scenario testing 
+       # Unit testing, such as excel spreedsheet for inputs + expected outputs
    # Add a tree pattern match for syntax highlighting and code completion (http://www.nedit.org/)
    # Intentional programming - create rules automatically based on user intent
    # Create visual representations of code blocks, and allow code blocks to be "snapped" together. 
       # A code blob is an intentional piece - if the blob fits, the user just populates the missing params, the blob generates code that the user can always modify with the rich editor, the blob has inputs and outputs, which can fit other blobs. 
+   # Add meta information about the rule + incode with the rule, readable comments
+      # Each rule has an intent, inputs + outputs, interacts with some meta data
    # Smart indentation
    # Consider ways of creating simpler methods to target none-developers
    # Consider complexity in the development of rules
