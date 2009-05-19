@@ -18,6 +18,9 @@
    # Consider complexity in the development of rules
    # AOP for debugging + explanation of rule result
 
+   # Consider supporting custom AST languages. 
+      # Add 100 basis points to yield curve
+
 
 == Links of influence==
 http://blog.intentsoft.com/intentional_software/2005/05/notations_and_p.html
